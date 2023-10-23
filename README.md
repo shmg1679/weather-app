@@ -10,4 +10,5 @@ npm run dev
 
 `NEXT_PUBLIC_API_KEY=<your openweather api key>`
 
-![app](https://github.com/shmg1679/weather-app/assets/91004979/e3426c0a-cde2-461f-a03b-d7e5861debe5)
+
+![app](https://github.com/shmg1679/weather-app/assets/91004979/46ee3303-d434-4778-89ff-e34d97da5534)
