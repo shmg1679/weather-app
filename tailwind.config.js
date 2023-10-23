@@ -12,6 +12,12 @@ module.exports = {
     extend: {
       backgroundImage: {
         home: 'url("/home.png")',
+        clear: 'url("/clear_sky.png")',
+        cloud: 'url("/clouds.png")',
+        mist: 'url("/mist.png")',
+        rain: 'url("/Rain.png")',
+        snow: 'url("/snow.png")',
+        thunder: 'url("/thunderstorm.png")',
       },
     },
     
